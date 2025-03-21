@@ -1,0 +1,2 @@
+sys-auth/fprintd 1.94.3: D-Bus service to access fingerprint readers
+sys-auth/libfprint 1.94.5: Library to add support for consumer fingerprint readers - add elanmoc2 driver
